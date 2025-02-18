@@ -20,6 +20,7 @@ This repository contains a supply chain data analysis project designed to derive
 **1. SKU Sales Analysis:** _What are the top-selling SKUs (by units sold), and what is their total revenue, grouped by product type?_</br>
 **2. Production vs. Sales:** _What is the total production volume compared to the quantity sold for each product type, and how does it correlate with stock levels?_</br>
 **3. Shipping Cost Insights:** _How do shipping costs vary across different carriers, and what impact does this have on overall revenue?_</br>
+**4. Carrier Effeciency Insights:** _How does the manufacturing lead time compare to the shipping cost per unit across different carriers?_</br>
 
 # Pivot Tables:<br>
 
